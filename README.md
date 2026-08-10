@@ -21,11 +21,11 @@ SYSTEM STATUS
 ────────────────────────────────────────────
 AI / SOFTWARE        ███████████████░   ACTIVE
 AEROSPACE            ███████████░░░░░   EXPLORING
-RESEARCH             ██████████░░░░░░   BUILDING
+RESEARCH             ████████████░░░░   ACTIVE
 CAD / 3D             █████████████░░░   ACTIVE
 CURIOSITY             ████████████████   MAX
 ────────────────────────────────────────────
-CURRENT MISSION  → turn ideas into measurable engineering work
+CURRENT MISSION  → AegisLand: uncertainty-aware UAV landing safety
 ```
 
 ## About me
@@ -72,13 +72,16 @@ AI Research     → reliability, abstention, evaluation, uncertainty
 Engineering     → CAD, simulation, prototyping, validation
 ```
 
+### Current research: [AegisLand](https://github.com/suhaslord/uav-safety-research)
+
+I'm investigating whether a **confidence-aware safety supervisor** can reduce unsafe simulated UAV landings when visual perception becomes unreliable. The project includes a reproducible simulation, perception-stress models, an interpretable `PROCEED / HOLD / ABORT` supervisor, Monte Carlo experiments, confidence intervals, threshold ablations, and a preregistered Phase 1 protocol.
+
 I'm also helping build **RIAX — River Islands Aerospace**, a student aerospace initiative centered on hands-on engineering, research, competitions, industry exposure, and ambitious technical projects.
 
 <details>
-<summary><b>🛰️ Open research ideas I'm exploring</b></summary>
+<summary><b>🛰️ Other research directions I'm exploring</b></summary>
 <br>
 
-- confidence-aware autonomous UAV landing
 - propulsion-fault detection and recovery
 - morphing-wing response to gust disturbances
 - multi-fidelity aerodynamic modeling
@@ -94,6 +97,14 @@ I'm also helping build **RIAX — River Islands Aerospace**, a student aerospace
 <tr>
 <td width="50%" valign="top">
 
+### 🛡️ [AegisLand](https://github.com/suhaslord/uav-safety-research)
+**Simulation-first UAV safety research.** Studies whether uncertainty-aware supervision can reduce unsafe simulated touchdowns under degraded perception without simply aborting everything.
+
+`Python` `Autonomy` `Uncertainty` `Monte Carlo` `Research`
+
+</td>
+<td width="50%" valign="top">
+
 ### 🧠 [AbstainBench](https://github.com/suhaslord/AbstainBench)
 A local-first benchmark for studying **when a language model should answer and when it should abstain**.
 
@@ -102,6 +113,8 @@ Tracks accuracy, hallucinations, false abstentions, and category-level behavior,
 `AI Evaluation` `WebLLM` `WebGPU` `Research`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🎾 [TennisRank AI](https://github.com/suhaslord/tennisrank-ai)
@@ -110,22 +123,12 @@ A mobile-first ranking platform that ingests flexible spreadsheet data, interpre
 `JavaScript` `Supabase` `Vercel` `Data Systems`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### ◌ [ECHO / FIELD](https://github.com/suhaslord/ECHO-FIELD)
 A browser-native generative instrument where **motion, voice, and memory** alter a live visual field in real time.
 
 `Canvas` `Web Audio API` `Generative Systems`
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 StudySync AI
-An AI-powered study platform I took from idea to launch, reaching **200+ active users at peak**.
-
-`AI` `Product Development` `Full-Stack Basics`
 
 </td>
 </tr>
