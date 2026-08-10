@@ -8,16 +8,25 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Suhas%20Beemineni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhas-beemineni-1984763b8/)
 [![GitHub](https://img.shields.io/badge/GitHub-suhaslord-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suhaslord)
+![Profile Views](https://komarev.com/ghpvc/?username=suhaslord&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-<div align="center">
+## Mission control
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=850&center=true&vCenter=true&repeat=true&width=760&lines=Build+it.;Test+it.;Measure+it.;Break+the+assumptions.;Improve+it.)](https://git.io/typing-svg)
-
-</div>
+```text
+SYSTEM STATUS
+────────────────────────────────────────────
+AI / SOFTWARE        ███████████████░   ACTIVE
+AEROSPACE            ███████████░░░░░   EXPLORING
+RESEARCH             ██████████░░░░░░   BUILDING
+CAD / 3D             █████████████░░░   ACTIVE
+CURIOSITY             ████████████████   MAX
+────────────────────────────────────────────
+CURRENT MISSION  → turn ideas into measurable engineering work
+```
 
 ## About me
 
@@ -28,12 +37,6 @@ I like projects where I can go past the demo and ask harder questions: **Does it
 Right now, I'm especially interested in **UAV autonomy, safety-critical AI, computational aerodynamics, flight controls, and AI-assisted engineering workflows**.
 
 ---
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=1000&center=true&vCenter=true&repeat=true&width=760&lines=Software+%E2%86%92+AI+%E2%86%92+Autonomy;Research+%E2%86%92+Engineering+%E2%86%92+Validation;Ideas+%E2%86%92+Experiments+%E2%86%92+Results)](https://git.io/typing-svg)
-
-</div>
 
 ## Experience
 
@@ -71,13 +74,17 @@ Engineering     → CAD, simulation, prototyping, validation
 
 I'm also helping build **RIAX — River Islands Aerospace**, a student aerospace initiative centered on hands-on engineering, research, competitions, industry exposure, and ambitious technical projects.
 
-Research directions I'm exploring include:
+<details>
+<summary><b>🛰️ Open research ideas I'm exploring</b></summary>
+<br>
 
 - confidence-aware autonomous UAV landing
 - propulsion-fault detection and recovery
 - morphing-wing response to gust disturbances
 - multi-fidelity aerodynamic modeling
 - safety and reliability in learning-enabled systems
+
+</details>
 
 ---
 
@@ -124,26 +131,43 @@ An AI-powered study platform I took from idea to launch, reaching **200+ active 
 </tr>
 </table>
 
-<div align="center">
+<details>
+<summary><b>🔬 What I look for in a project</b></summary>
+<br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2100&pause=800&center=true&vCenter=true&repeat=true&width=760&lines=Benchmark+AI.;Build+real+products.;Explore+autonomous+systems.;Ship+what+I+learn.)](https://git.io/typing-svg)
+```text
+cool idea
+   ↓
+working prototype
+   ↓
+repeatable test
+   ↓
+real data
+   ↓
+find what failed
+   ↓
+improve it
+   ↺
+```
 
-</div>
+</details>
 
 ---
 
 ## Highlights
 
-- 🥇 **SkillsUSA Regional Champion** in 3D Visualization & Animation; advanced to state competition
-- 🥈 **2nd place — Python Game Jam**
-- 🏅 **5th place out of 25+ teams — AI Collective Hackathon**
-- 📈 Built **StudySync AI** to **200+ peak active users**
-- 🎨 Experience in **Blender 3D modeling, animation, topology, lighting, and rendering**
-- 🤝 Community volunteer work including education, outreach, and large-scale service events
+| | |
+|---|---|
+| 🥇 | **SkillsUSA Regional Champion** — 3D Visualization & Animation; advanced to state competition |
+| 🥈 | **2nd place** — Python Game Jam |
+| 🏅 | **5th place of 25+ teams** — AI Collective Hackathon |
+| 📈 | Built **StudySync AI** to **200+ peak active users** |
+| 🎨 | Blender: modeling, animation, topology, lighting, rendering |
+| 🤝 | Community service, education, and outreach experience |
 
 ---
 
-## Tech I use
+## Tech hangar
 
 <div align="center">
 
@@ -161,19 +185,26 @@ An AI-powered study platform I took from idea to launch, reaching **200+ active 
 
 ---
 
-## GitHub activity
+## Flight log
 
-<div align="center">
+```text
+[ BUILD ]  software products
+[ TEST  ]  AI reliability
+[ MODEL ]  aerospace systems
+[ DESIGN]  CAD + 3D
+[ LEARN ]  everything I can get my hands on
+```
 
-![GitHub Streak](https://streak-stats.demolab.com?user=suhaslord&hide_border=true&background=00000000)
+<details>
+<summary><b>⚡ A few things that describe how I work</b></summary>
+<br>
 
-</div>
+- I would rather ship a prototype and test it than debate an idea forever.
+- I like finding edge cases and figuring out why systems fail.
+- I care about making technical work understandable to other people.
+- I tend to learn tools when a project gives me a reason to need them.
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2200&pause=850&center=true&vCenter=true&repeat=true&width=780&lines=Learning+in+public.;Shipping+often.;Turning+experiments+into+evidence.)](https://git.io/typing-svg)
-
-</div>
+</details>
 
 ---
 
@@ -185,8 +216,8 @@ That means building the system, testing it, documenting limitations, analyzing t
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=900&center=true&vCenter=true&repeat=true&width=820&lines=Open+to+research+conversations.;Open+to+engineering+collaborations.;Always+building+the+next+experiment.)](https://git.io/typing-svg)
+### Open to research conversations, engineering projects, and ambitious technical collaborations.
 
-**AI · Aerospace · Autonomy · CAD · Simulation · Software**
+`AI` · `Aerospace` · `Autonomy` · `CAD` · `Simulation` · `Software`
 
 </div>
