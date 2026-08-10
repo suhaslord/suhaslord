@@ -2,7 +2,7 @@
 
 # Suhas Beemineni
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&center=true&vCenter=true&width=760&lines=AI+%2B+Software+Developer;Aerospace+%26+Autonomy+Explorer;Builder+of+Research-Driven+Projects;CAD+%C2%B7+Python+%C2%B7+Simulation+%C2%B7+Product+Engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2400&pause=700&center=true&vCenter=true&repeat=true&width=820&lines=AI+%2B+Software+Developer;Aerospace+%26+Autonomy+Explorer;Research-Driven+Builder;CAD+%C2%B7+Python+%C2%B7+Simulation+%C2%B7+Product+Engineering)](https://git.io/typing-svg)
 
 **High school student building at the intersection of AI, software, aerospace, and engineering.**
 
@@ -13,6 +13,12 @@
 
 ---
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=850&center=true&vCenter=true&repeat=true&width=760&lines=Build+it.;Test+it.;Measure+it.;Break+the+assumptions.;Improve+it.)](https://git.io/typing-svg)
+
+</div>
+
 ## About me
 
 I'm a student at **River Islands High School** with a strong interest in **AI systems, aerospace engineering, autonomy, CAD, simulation, and product development**.
@@ -22,6 +28,12 @@ I like projects where I can go past the demo and ask harder questions: **Does it
 Right now, I'm especially interested in **UAV autonomy, safety-critical AI, computational aerodynamics, flight controls, and AI-assisted engineering workflows**.
 
 ---
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=1000&center=true&vCenter=true&repeat=true&width=760&lines=Software+%E2%86%92+AI+%E2%86%92+Autonomy;Research+%E2%86%92+Engineering+%E2%86%92+Validation;Ideas+%E2%86%92+Experiments+%E2%86%92+Results)](https://git.io/typing-svg)
+
+</div>
 
 ## Experience
 
@@ -40,6 +52,12 @@ Collaborated on interactive game features and technical design while working as 
 ---
 
 ## Aerospace + research direction
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2300&pause=900&center=true&vCenter=true&repeat=true&width=820&lines=UAV+Autonomy+%C2%B7+Fault+Detection+%C2%B7+Flight+Controls;CFD+%C2%B7+Aerodynamics+%C2%B7+Multi-Fidelity+Modeling;Safety-Critical+AI+%C2%B7+Sensing+%C2%B7+Validation)](https://git.io/typing-svg)
+
+</div>
 
 I'm currently building toward deeper work in **aerospace autonomy and computational engineering**.
 
@@ -106,6 +124,12 @@ An AI-powered study platform I took from idea to launch, reaching **200+ active 
 </tr>
 </table>
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2100&pause=800&center=true&vCenter=true&repeat=true&width=760&lines=Benchmark+AI.;Build+real+products.;Explore+autonomous+systems.;Ship+what+I+learn.)](https://git.io/typing-svg)
+
+</div>
+
 ---
 
 ## Highlights
@@ -141,8 +165,13 @@ An AI-powered study platform I took from idea to launch, reaching **200+ active 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=suhaslord&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Suhas's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhaslord&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+![GitHub Streak](https://streak-stats.demolab.com?user=suhaslord&hide_border=true&background=00000000)
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2200&pause=850&center=true&vCenter=true&repeat=true&width=780&lines=Learning+in+public.;Shipping+often.;Turning+experiments+into+evidence.)](https://git.io/typing-svg)
 
 </div>
 
@@ -156,7 +185,7 @@ That means building the system, testing it, documenting limitations, analyzing t
 
 <div align="center">
 
-### Interested in research, engineering, aerospace, AI, and ambitious technical collaborations.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=900&center=true&vCenter=true&repeat=true&width=820&lines=Open+to+research+conversations.;Open+to+engineering+collaborations.;Always+building+the+next+experiment.)](https://git.io/typing-svg)
 
 **AI · Aerospace · Autonomy · CAD · Simulation · Software**
 
