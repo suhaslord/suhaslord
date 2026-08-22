@@ -90,13 +90,17 @@ Generative instrument where motion, voice, and memory alter a live visual field.
 
 ## 💼 Experience
 
-| Year | Role |
-|------|------|
-| **2026** | **Software Development Intern** — [OpenStage Gym](https://www.openstage.app/) · OpenStage/Seagulls AI: exercise search/chat UX, tracing/QA, Core AI routing/memory/safety/agents |
-| **2026** | **AI R&D Intern** — Cruze · Early-stage AI & software research for product problems |
-| **2026** | **Growth Intern** — Exovista · Startup growth experiments & product execution |
-| **2026** | **Game Design Team** — StemE · Interactive game features & technical design |
-| **Ongoing** | **Student Researcher** — Independent / AIEA Lab K-12 · Uncertainty quantification, UAV safety, AI abstention |
+| Period | Role |
+|--------|------|
+| **Aug 2026–Present** | **Voyager OSS Contributor** — Elodin · Merged [PR #769](https://github.com/elodin-sys/elodin/pull/769) (position/velocity error telemetry vs SPICE) |
+| **Aug 2026–Present** | **Aviary Contributor** — NASA (open-source exploration path) |
+| **Jul 2026–Present** | **Researcher** — National Student Research Institution (NSRI) · Lit reviews, data analysis, weekly meetings |
+| **Jun 2026–Present** | **Intern** — Venture Starters · Connecting young entrepreneurs with founders |
+| **Jun 2026–Present** | **AI Engineer Intern** — Seagulls · Core AI/agent infra for OpenStage/AiOS (routing, memory boundaries, guardrails, observability) |
+| **Jun 2026–Present** | **Math Tutor** — Learn To Be · Math/English tutoring |
+| **Jul–Aug 2026** | **Fleet Outreach & Business Development Intern** — Cruze · Fleet partners / pilot outreach |
+| **Jun–Aug 2026** | **Market Research Intern** — exovista.org · STEM org market research/outreach |
+| **Jan–Apr 2026** | **Game Design Team Member** — STEM·E · Game mechanics/prototyping (40+ hours volunteered) |
 
 ---
 
@@ -104,10 +108,10 @@ Generative instrument where motion, voice, and memory alter a live visual field.
 
 | | |
 |---|---|
-| 🥇 | **SkillsUSA Regional Champion** — 3D Visualization & Animation (advanced to state) |
+| 🥇 | **SkillsUSA Regional Champion** — 3D Visualization & Animation; competed California state, placed 16th statewide |
 | 🥈 | **2nd place** — Python Game Jam |
-| 🏅 | **5th of 25+ teams** — AI Collective Hackathon |
-| 📈 | **StudySync AI** — 200+ peak active users |
+| 🏅 | **5th of 25+ teams** — AI Collective Hackathon · StudySync AI ~200 active users at peak |
+| 🎓 | **Certs** — MATLAB Onramp (MathWorks Aug 2026), DataCamp 2026, United Hacks V7 Participant |
 | 🎨 | **Blender proficiency** — modeling, animation, topology, lighting, rendering |
 
 ---
