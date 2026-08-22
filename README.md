@@ -120,11 +120,7 @@ Generative instrument where motion, voice, and memory alter a live visual field.
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats-one-gilt.vercel.app/api?username=suhaslord&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)](https://github.com/suhaslord)
-
-[![Top Languages](https://github-readme-stats-one-gilt.vercel.app/api/top-langs/?username=suhaslord&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/suhaslord)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suhaslord&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9)](https://github.com/suhaslord)
+![GitHub Stats](https://icon.mzrdev.com/stats?username=suhaslord&theme=tokyonight)
 
 </div>
 
