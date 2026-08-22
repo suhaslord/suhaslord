@@ -1,10 +1,8 @@
 <div align="center">
 
-# Suhas Beemineni
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=120&section=header&text=Suhas%20Beemineni&fontSize=42&fontColor=fff&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2400&pause=700&center=true&vCenter=true&repeat=true&width=820&lines=AI+%2B+Software+Developer;Aerospace+%26+Autonomy+Explorer;Research-Driven+Builder;CAD+%C2%B7+Python+%C2%B7+Simulation+%C2%B7+Product+Engineering)](https://git.io/typing-svg)
-
-**High school student (Class of 2029, River Islands HS) building at the intersection of AI, software, aerospace, and engineering.**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-suhaslord.github.io-FF6B6B?style=for-the-badge&logo=safari&logoColor=white)](https://suhaslord.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Suhas%20Beemineni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhas-beemineni-1984763b8/)
@@ -15,87 +13,33 @@
 
 ---
 
-## 🎯 Mission Control
-
-```text
-SYSTEM STATUS
-────────────────────────────────────────────
-AI / SOFTWARE        ███████████████░   ACTIVE
-AEROSPACE            ███████████░░░░░   EXPLORING
-RESEARCH             ████████████░░░░   ACTIVE
-CAD / 3D             █████████████░░░   ACTIVE
-CURIOSITY            ████████████████   MAX
-────────────────────────────────────────────
-CURRENT MISSION  → AegisLand: uncertainty-aware UAV landing safety
-```
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suhaslord&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)](https://github.com/suhaslord)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suhaslord&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/suhaslord)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suhaslord&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9)](https://github.com/suhaslord)
-
-</div>
-
----
-
 ## 👨‍💻 About Me
 
-I'm a student at **River Islands High School (Class of 2029)** with a strong interest in **AI systems, aerospace engineering, autonomy, CAD, simulation, and product development**. I also take college CS courses at **Delta College**.
+**River Islands HS (Class of 2029) · Delta College CS** — building at the intersection of AI, aerospace, and autonomy. I like projects where I can measure what works and figure out why systems fail.
 
-I like projects where I can go past the demo and ask harder questions: **Does it work reliably? Can I measure it? What happens when the assumptions fail?** That mindset has pushed me toward research-style engineering, AI evaluation, autonomous systems, and building software that people can actually use.
-
-Right now, I'm especially interested in **UAV autonomy, safety-critical AI, computational aerodynamics, flight controls, and AI-assisted engineering workflows**.
-
-> **Philosophy:** Turning curiosity into measurable engineering work.
+> Turning curiosity into measurable engineering work.
 
 ---
 
 ## 🚀 Research & Projects
 
-### 🛡️ Current Research: [AegisLand](https://github.com/suhaslord/uav-safety-research)
+### 🛡️ AegisLand — [UAV Safety Research](https://github.com/suhaslord/uav-safety-research)
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2300&pause=900&center=true&vCenter=true&repeat=true&width=820&lines=UAV+Autonomy+%C2%B7+Fault+Detection+%C2%B7+Flight+Controls;Uncertainty+Quantification+%C2%B7+Monte+Carlo+Validation;Safety-Critical+AI+%C2%B7+Sensing+%C2%B7+Preregistered+Protocol)](https://git.io/typing-svg)
-
-</div>
-
-Investigating whether a **confidence-aware safety supervisor** can reduce unsafe simulated UAV landings when visual perception becomes unreliable. The project includes:
-
-- ✅ Reproducible simulation environment
-- ✅ Perception-stress models
-- ✅ Interpretable `PROCEED / HOLD / ABORT` supervisor
-- ✅ Monte Carlo experiments with confidence intervals
-- ✅ Threshold ablations and frozen holdout validation
-- ✅ Preregistered Phase 1 protocol
-
-**Key Result:** Phase 6B showed reduction from **43% → 1%** unsafe landings in synthetic scenarios; V3 achieved **84.2% → 2.4%** with redundant perception.
+**Confidence-aware safety supervisor for UAV landings under degraded perception.** Phase 6B: **43% → 1%** unsafe touchdowns; V3: **84.2% → 2.4%** with redundant sensing. Monte Carlo validation, preregistered protocol, reproducible sim environment.
 
 > *Simulation only. Not flight software. Research-grade validation.*
 
-I'm also helping build **🛰️ RIAX — River Islands Aerospace**, a student aerospace initiative centered on hands-on engineering, research, competitions, industry exposure, and ambitious technical projects.
+Co-building **🛰️ RIAX** (River Islands Aerospace) — student aerospace club focused on hands-on engineering, research, and competitions.
 
 <details>
-<summary><b>🔬 Other research directions I'm exploring</b></summary>
+<summary><b>🔬 Other research directions</b></summary>
 <br>
 
-```text
-Autonomy        → UAV navigation, fault detection, safety supervisors
-Aerodynamics    → CFD, unsteady flow, aerodynamic modeling (Aviary/OpenMDAO)
-Controls        → sensing, flight dynamics, adaptive recovery
-AI Research     → reliability, abstention, evaluation, uncertainty
-Engineering     → CAD, simulation, prototyping, validation
-```
-
-**Active explorations:**
-- Propulsion-fault detection and recovery
-- Morphing-wing response to gust disturbances
-- Multi-fidelity aerodynamic modeling (exploring NASA Aviary/OpenMDAO)
-- Safety and reliability in learning-enabled systems
-- Elodin Voyager validation (read-only investigation)
+- Autonomy → UAV navigation, fault detection, safety supervisors
+- Aerodynamics → CFD, unsteady flow, aerodynamic modeling
+- Controls → sensing, flight dynamics, adaptive recovery
+- AI Research → reliability, abstention, evaluation, uncertainty
+- Engineering → CAD, simulation, prototyping, validation
 
 </details>
 
@@ -108,19 +52,17 @@ Engineering     → CAD, simulation, prototyping, validation
 <td width="50%" valign="top">
 
 #### 🛡️ [AegisLand](https://github.com/suhaslord/uav-safety-research)
-**Simulation-first UAV safety research.** Studies whether uncertainty-aware supervision can reduce unsafe simulated touchdowns under degraded perception without simply aborting everything.
+**Simulation-first UAV safety research.** Uncertainty-aware supervision to reduce unsafe simulated touchdowns under degraded perception.
 
-`Python` `Autonomy` `Uncertainty` `Monte Carlo` `Research`
+`Python` `Autonomy` `Uncertainty` `Monte Carlo`
 
 </td>
 <td width="50%" valign="top">
 
 #### 🧠 [AbstainBench](https://github.com/suhaslord/AbstainBench)
-A local-first benchmark for studying **when a language model should answer and when it should abstain**.
+**When should a language model abstain?** Local-first benchmark tracking accuracy, hallucinations, and false abstentions with optional WebLLM browser inference.
 
-Tracks accuracy, hallucinations, false abstentions, and category-level behavior, with an optional local browser LLM through WebLLM.
-
-`AI Evaluation` `WebLLM` `WebGPU` `Research`
+`AI Evaluation` `WebLLM` `WebGPU`
 
 </td>
 </tr>
@@ -128,113 +70,83 @@ Tracks accuracy, hallucinations, false abstentions, and category-level behavior,
 <td width="50%" valign="top">
 
 #### 🎾 [TennisRank AI](https://github.com/suhaslord/tennisrank-ai)
-A mobile-first ranking platform that ingests flexible spreadsheet data, interprets roster/match formats, calculates singles and doubles rankings, and persists data through Supabase.
+Mobile-first ranking platform: flexible spreadsheet ingest, singles/doubles rankings, Supabase persistence.
 
-`JavaScript` `Supabase` `Vercel` `Data Systems`
+`JavaScript` `Supabase` `Vercel`
 
 </td>
 <td width="50%" valign="top">
 
 #### ◌ [ECHO / FIELD](https://github.com/suhaslord/ECHO-FIELD)
-A browser-native generative instrument where **motion, voice, and memory** alter a live visual field in real time. Cannot be screenshotted into the same image twice.
+Generative instrument where motion, voice, and memory alter a live visual field. Cannot be screenshotted the same way twice.
 
-`Canvas` `Web Audio API` `Generative Systems`
+`Canvas` `Web Audio API`
 
 </td>
 </tr>
 </table>
-
-<details>
-<summary><b>🔧 What I look for in a project</b></summary>
-<br>
-
-```text
-cool idea
-   ↓
-working prototype
-   ↓
-repeatable test
-   ↓
-real data
-   ↓
-find what failed
-   ↓
-improve it
-   ↺
-```
-
-I would rather ship a prototype and test it than debate an idea forever. I like finding edge cases and figuring out why systems fail. I care about making technical work understandable to other people.
-
-</details>
 
 ---
 
 ## 💼 Experience
 
-<table>
-<tr>
-<td width="25%"><b>2026</b></td>
-<td width="75%">
-
-**Software Development Intern** — [OpenStage Gym](https://www.openstage.app/)  
-Production AI for OpenStage/Seagulls: assistant-integrated exercise search and recommendations, chat UX improvements, tracing/QA, and Core AI work around routing, memory, safety, and agent architecture.
-
-</td>
-</tr>
-<tr>
-<td width="25%"><b>2026</b></td>
-<td width="75%">
-
-**AI Research & Development Intern** — Cruze  
-Early-stage AI and software research aimed at product problems in a technical environment.
-
-</td>
-</tr>
-<tr>
-<td width="25%"><b>2026</b></td>
-<td width="75%">
-
-**Growth Intern** — Exovista  
-Startup growth: experiments, iteration, and product execution.
-
-</td>
-</tr>
-<tr>
-<td width="25%"><b>2026</b></td>
-<td width="75%">
-
-**Game Design Team Member** — StemE  
-Interactive game features and technical design with a student development team.
-
-</td>
-</tr>
-<tr>
-<td width="25%"><b>Ongoing</b></td>
-<td width="75%">
-
-**Student Researcher** — Independent / AIEA Lab K-12  
-Self-directed research in uncertainty quantification, UAV safety systems, and AI abstention. College CS coursework at Delta College alongside high school.
-
-</td>
-</tr>
-</table>
+| Year | Role |
+|------|------|
+| **2026** | **Software Development Intern** — [OpenStage Gym](https://www.openstage.app/) · OpenStage/Seagulls AI: exercise search/chat UX, tracing/QA, Core AI routing/memory/safety/agents |
+| **2026** | **AI R&D Intern** — Cruze · Early-stage AI & software research for product problems |
+| **2026** | **Growth Intern** — Exovista · Startup growth experiments & product execution |
+| **2026** | **Game Design Team** — StemE · Interactive game features & technical design |
+| **Ongoing** | **Student Researcher** — Independent / AIEA Lab K-12 · Uncertainty quantification, UAV safety, AI abstention |
 
 ---
 
-## 🏆 Highlights & Achievements
+## 🏆 Wins
 
 | | |
 |---|---|
-| 🥇 | **SkillsUSA Regional Champion** — 3D Visualization & Animation; advanced to state competition |
+| 🥇 | **SkillsUSA Regional Champion** — 3D Visualization & Animation (advanced to state) |
 | 🥈 | **2nd place** — Python Game Jam |
-| 🏅 | **5th place of 25+ teams** — AI Collective Hackathon |
-| 📈 | Built **StudySync AI** to **200+ peak active users** |
-| 🎨 | **Blender proficiency**: modeling, animation, topology, lighting, rendering |
-| 🤝 | Community service, education, and outreach experience |
+| 🏅 | **5th of 25+ teams** — AI Collective Hackathon |
+| 📈 | **StudySync AI** — 200+ peak active users |
+| 🎨 | **Blender proficiency** — modeling, animation, topology, lighting, rendering |
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats-one-gilt.vercel.app/api?username=suhaslord&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)](https://github.com/suhaslord)
+
+[![Top Languages](https://github-readme-stats-one-gilt.vercel.app/api/top-langs/?username=suhaslord&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/suhaslord)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suhaslord&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9)](https://github.com/suhaslord)
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+![Trophies](https://icon.mzrdev.com/trophy?username=suhaslord&theme=radical)
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+![Snake](https://icon.mzrdev.com/snk?username=suhaslord&palette=github-dark&color_bar_by_eaten=true&show_score=true)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -265,16 +177,6 @@ Self-directed research in uncertainty quantification, UAV safety systems, and AI
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=suhaslord&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B)
-
-</div>
-
----
-
 ## 🎯 Current Focus
 
 ```text
@@ -284,9 +186,6 @@ Self-directed research in uncertainty quantification, UAV safety systems, and AI
 [ DESIGN]  CAD + 3D visualization
 [ LEARN ]  everything I can get my hands on
 ```
-
-**What I'm trying to become better at:**
-> Building the system, testing it, documenting limitations, analyzing the results, and then improving it — whether the project is an AI benchmark, an aerospace simulation, a product, or a physical design.
 
 ---
 
@@ -303,6 +202,8 @@ Self-directed research in uncertainty quantification, UAV safety systems, and AI
 
 ---
 
-<sub>💡 **Tip:** This profile updates regularly with new projects and research. Star or watch repos you find interesting!</sub>
+<sub>💡 This profile updates regularly with new projects and research. Star or watch repos you find interesting!</sub>
 
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=80&section=footer)
