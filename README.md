@@ -1,58 +1,52 @@
 # Suhas Beemineni
 
-High-school student working on aerospace software, autonomy, simulation, and ML evaluation.
+High school student working on aerospace simulation, autonomy, and software. I like projects where the result can be checked against data, a reference implementation, or a frozen test set.
 
-I like projects where the result can be measured, reproduced, and proven wrong.
+- [Portfolio](https://suhaslord.github.io/portfolio/)
+- [LinkedIn](https://www.linkedin.com/in/suhas-beemineni-1984763b8/)
 
-[Portfolio](https://suhaslord.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/suhas-beemineni-1984763b8/)
+## What I am working on
 
-## Selected work
+### AegisLand
 
-### [AegisLand](https://github.com/suhaslord/uav-safety-research)
+I built AegisLand to test a narrow question: **if a landing camera is confidently wrong, can an independent estimate expose the error before touchdown?**
 
-**Question:** when UAV landing perception is confidently wrong, can an independent estimate catch the error without creating too many unnecessary interventions?
+An early synthetic experiment looked promising: unsafe touchdowns fell from **43% to 1%** with selective intervention. Later camera-based testing was less clean. On the Phase 10R frozen holdout, average error improved, but the system missed **20%** of truth-visible frames, failed both p95 tail-error targets, and under-covered its stated 95% uncertainty interval (**84.3% lateral / 79.7% altitude**). I kept that result frozen instead of tuning on the test set.
 
-**What I did:** built the simulation/evaluation pipeline, tested redundant estimation and abstention, moved from synthetic failures to PX4/Gazebo camera evidence, and froze holdouts before final evaluation.
+Repo: [uav-safety-research](https://github.com/suhaslord/uav-safety-research)
 
-**Current result:** Phase 10R reduced mean error on ambiguous views but failed the overall frozen evaluation because p95 tail error, miss rate, and uncertainty coverage did not meet the preregistered gates. The failed result is preserved in the repo.
+### Elodin / Voyager
 
-**Scope:** simulation only. No physical-flight validation.
+I have been contributing to Elodin's Voyager example. My first merged contribution added position/velocity error telemetry against SPICE reference data. I then worked on a reconstructed Voyager 1 Jupiter validation case and on keeping the assumptions and limitations visible in the example instead of hiding them behind a large simulation stack.
 
-### [Elodin / Voyager](https://github.com/elodin-sys/elodin)
+Merged example contribution: [elodin-sys/elodin#769](https://github.com/elodin-sys/elodin/pull/769)
 
-Contributed to the Voyager example and validation work in Elodin. My merged work added position/velocity error telemetry against SPICE truth so propagation changes can be measured instead of judged visually.
+### Public spacecraft-model reproductions
 
-### [AbstainBench](https://github.com/suhaslord/AbstainBench)
+I am also working through public spacecraft dynamics and controls results one at a time. For a Lockheed Martin HWO / disturbance-free-payload paper, I used a one-degree-of-freedom spring-mass model to check whether the reported modal-frequency shift is consistent with a 70% effective stiffness cancellation. The simple model gives the expected roughly **1.8x** frequency ratio. It does **not** reproduce the full 6-DOF controller, hardware, or flight design.
 
-A benchmark for a simple question: **when should a language model refuse to answer?** It tracks accuracy, hallucinations, and false abstentions so different refusal strategies can be compared with numbers instead of demos.
+That kind of boundary matters to me: if I did not model it, I do not want the project page to imply that I did.
 
-### [TennisRank](https://github.com/suhaslord/tennisrank-ai)
+## Other projects
 
-Built a ranking app for school tennis with spreadsheet import, singles/doubles rankings, and Supabase persistence.
+**AbstainBench** — a small browser benchmark for a simple question: when should a language model answer, and when should it say it does not know? It records correct answers, hallucinations, and false abstentions across a fixed set of prompts. [Repo](https://github.com/suhaslord/AbstainBench)
+
+**TennisRank** — a private team ranking tool with spreadsheet import, singles/doubles rankings, and Supabase persistence. [Repo](https://github.com/suhaslord/tennisrank-ai)
+
+**ECHO / FIELD** — a browser-based visual instrument where microphone input and motion alter a live generative field. [Repo](https://github.com/suhaslord/ECHO-FIELD)
 
 ## Experience
 
-- **Seagulls / OpenStage — AI Engineer Intern:** worked on model routing, guardrails, memory boundaries, observability, and QA for assistant/workout flows.
-- **Learn To Be — Math Tutor:** volunteer math and English tutoring.
-- **Cruze — Fleet Outreach Intern:** fleet-partner and pilot outreach.
-- **exovista.org — Market Research Intern:** STEM market research and outreach.
+- **Seagulls / OpenStage — AI engineering intern.** Worked on model routing, memory boundaries, guardrails, tracing, QA, and production-path checks. Recent work included looking for inference paths that bypassed the intended routing layer and testing user-facing failure cases.
+- **Open-source aerospace work.** Contributing to Elodin and exploring public NASA/Aviary work through reproducible examples and validation tasks.
+- **Student research and engineering.** Independent simulation work plus school and community engineering projects.
 
-## What I am working on now
+## Background
 
-- UAV perception reliability and uncertainty under distribution shift
-- spacecraft / flight-dynamics simulation and validation
-- open-source aerospace software contributions
-- tools that make ML behavior easier to measure and inspect
+River Islands High School · Delta College coursework
 
-## Tools I actually use
+SkillsUSA regional champion in 3D Visualization & Animation; advanced to the California state competition. Also placed 2nd in a Python game jam and 5th of 25+ teams at an AI Collective hackathon.
 
-Python · JavaScript · NumPy · Matplotlib · Git/GitHub · Supabase · Vercel · Blender
+I use Python and JavaScript most often. For simulation/research work I also use NumPy, Matplotlib, Git, and the surrounding domain tools as needed.
 
-## A few results I care about
-
-- AegisLand Phase 10R: strong mean-error improvements on ambiguous views, but **failed overall** on frozen holdout because tail error, availability, and uncertainty coverage did not all transfer.
-- Earlier AegisLand synthetic benchmark: unsafe simulated touchdowns `43% → 1%`, with a 3% low-light timeout cost.
-- Elodin: merged Voyager validation telemetry contribution against SPICE truth.
-- SkillsUSA: regional champion in 3D Visualization & Animation; 16th at California state.
-
-I would rather show a failed, well-measured experiment than hide it behind a polished demo.
+I would rather show a small result I can explain than a large system description I cannot defend.
