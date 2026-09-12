@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150" role="img" aria-labelledby="title desc">
+<title id="title">Suhas Beemineni</title>
+<desc id="desc">Aerospace, autonomy, and applied AI. Two points slowly orbit a central dot.</desc>
+<style>
+.orbit{transform-origin:785px 69px;animation:orbit 24s linear infinite}
+.inner{transform-origin:785px 69px;animation:orbit 34s linear infinite reverse}
+@keyframes orbit{to{transform:rotate(360deg)}}
+@media(prefers-reduced-motion:reduce){.orbit,.inner{animation:none}}
+</style>
+<rect width="900" height="150" fill="#ffffff"/>
+<text x="0" y="29" fill="#59636e" font-family="ui-monospace,monospace" font-size="12" letter-spacing="2">STUDENT / DEVELOPER</text>
+<text x="0" y="83" fill="#1f2328" font-family="Segoe UI,Arial,sans-serif" font-size="44" font-weight="600" letter-spacing="-1.6">Suhas Beemineni</text>
+<text x="1" y="117" fill="#59636e" font-family="Segoe UI,Arial,sans-serif" font-size="18">Aerospace · Autonomy · Applied AI</text>
+<g fill="none" stroke="#d8dee4"><circle cx="785" cy="69" r="52"/><circle cx="785" cy="69" r="31"/><path d="M719 69h132M785 3v132"/></g>
+<circle cx="785" cy="69" r="4" fill="#14866d"/>
+<g class="orbit"><circle cx="837" cy="69" r="4.5" fill="#14866d"/><circle cx="837" cy="69" r="9" fill="#14866d" opacity=".12"/></g>
+<g class="inner"><circle cx="785" cy="38" r="3" fill="#59636e"/></g>
+<path d="M0 148H900" stroke="#d8dee4"/>
+</svg>
