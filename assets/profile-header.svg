@@ -1,27 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="190" viewBox="0 0 900 190" role="img" aria-labelledby="title desc">
-  <title id="title">Suhas Beemineni — Aerospace, Autonomy, AI</title>
-  <desc id="desc">A dark blue banner with two slowly orbiting points and a moving signal along the lower edge.</desc>
-  <defs>
-    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#14263a"/></linearGradient>
-    <linearGradient id="signal"><stop stop-color="#58a6ff" stop-opacity="0"/><stop offset="1" stop-color="#79c0ff"/></linearGradient>
-  </defs>
-  <style>
-    .orbit{transform-origin:752px 94px;animation:orbit 18s linear infinite}
-    .orbit-slow{transform-origin:752px 94px;animation:orbit 28s linear infinite reverse}
-    .signal{animation:signal 9s ease-in-out infinite}
-    @keyframes orbit{to{transform:rotate(360deg)}}
-    @keyframes signal{0%,100%{transform:translateX(0);opacity:.2}50%{transform:translateX(600px);opacity:.8}}
-    @media(prefers-reduced-motion:reduce){.orbit,.orbit-slow,.signal{animation:none}}
-  </style>
-  <rect width="900" height="190" rx="14" fill="url(#bg)"/>
-  <g fill="none" stroke="#8bbfff" stroke-opacity=".08"><path d="M600 0v190M650 0v190M700 0v190M750 0v190M800 0v190M850 0v190M575 44h325M575 94h325M575 144h325"/></g>
-  <text x="38" y="46" fill="#79c0ff" font-family="monospace" font-size="12" letter-spacing="2">AEROSPACE / AUTONOMY / AI</text>
-  <text x="36" y="102" fill="#f0f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="42" font-weight="600" letter-spacing="-1">Suhas Beemineni</text>
-  <text x="38" y="137" fill="#a9b8c9" font-family="Segoe UI,Arial,sans-serif" font-size="17">Research, open source, and things I build.</text>
-  <g fill="none" stroke="#58a6ff"><circle cx="752" cy="94" r="64" stroke-opacity=".24"/><circle cx="752" cy="94" r="39" stroke-opacity=".4"/><path d="M670 94h164M752 12v164" stroke-opacity=".13"/></g>
-  <circle cx="752" cy="94" r="6" fill="#79c0ff"/>
-  <g class="orbit"><circle cx="816" cy="94" r="5" fill="#79c0ff"/><circle cx="816" cy="94" r="10" fill="#58a6ff" opacity=".12"/></g>
-  <g class="orbit-slow"><circle cx="752" cy="55" r="4" fill="#a5d6ff"/></g>
-  <path d="M38 169h824" stroke="#303e50"/>
-  <path class="signal" d="M38 169h160" stroke="url(#signal)" stroke-width="2"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150" role="img" aria-labelledby="title desc">
+<title id="title">Suhas Beemineni</title>
+<desc id="desc">Aerospace, autonomy, and applied AI. Two points slowly orbit a central dot.</desc>
+<style>
+.orbit{transform-origin:785px 69px;animation:orbit 24s linear infinite}
+.inner{transform-origin:785px 69px;animation:orbit 34s linear infinite reverse}
+@keyframes orbit{to{transform:rotate(360deg)}}
+@media(prefers-reduced-motion:reduce){.orbit,.inner{animation:none}}
+</style>
+<rect width="900" height="150" fill="#0d1117"/>
+<text x="0" y="29" fill="#8d96a0" font-family="ui-monospace,monospace" font-size="12" letter-spacing="2">STUDENT / DEVELOPER</text>
+<text x="0" y="83" fill="#e6edf3" font-family="Segoe UI,Arial,sans-serif" font-size="44" font-weight="600" letter-spacing="-1.6">Suhas Beemineni</text>
+<text x="1" y="117" fill="#8d96a0" font-family="Segoe UI,Arial,sans-serif" font-size="18">Aerospace · Autonomy · Applied AI</text>
+<g fill="none" stroke="#30363d"><circle cx="785" cy="69" r="52"/><circle cx="785" cy="69" r="31"/><path d="M719 69h132M785 3v132"/></g>
+<circle cx="785" cy="69" r="4" fill="#7bdcc3"/>
+<g class="orbit"><circle cx="837" cy="69" r="4.5" fill="#7bdcc3"/><circle cx="837" cy="69" r="9" fill="#7bdcc3" opacity=".12"/></g>
+<g class="inner"><circle cx="785" cy="38" r="3" fill="#8d96a0"/></g>
+<path d="M0 148H900" stroke="#30363d"/>
 </svg>
