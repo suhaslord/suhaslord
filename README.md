@@ -1,50 +1,118 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-header.svg">
-  <img src="assets/profile-header-light.svg" width="900" alt="Suhas Beemineni — Aerospace, autonomy, and applied AI">
-</picture>
+<div align="center">
 
-I'm **Suhas Beemineni**, a high school student focused on aerospace, autonomous systems, and reliable AI. I build research tools and practical applications, with an emphasis on reproducible experiments, clear limitations, and useful interfaces.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=Suhas%20Beemineni&fontSize=42&fontColor=e6edf3&animation=twinkling&fontAlignY=32&desc=Aerospace%20%2F%20Autonomy%20%C2%B7%20Applied%20AI%20%C2%B7%20Builder&descAlignY=55&descSize=16"/>
 
-**[Portfolio](https://suhaslord.github.io/portfolio/)** · [LinkedIn](https://www.linkedin.com/in/suhas-beemineni-1984763b8/) · [Open-source contributions](https://github.com/pulls?q=is%3Apr+author%3Asuhaslord+is%3Amerged)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+autonomous+systems;Researching+spacecraft+navigation;Making+AI+more+reliable" alt="Typing animation"/>
+</a>
 
-## Featured work
+<br/><br/>
 
-### [AegisLand — UAV Safety Research](https://github.com/suhaslord/uav-safety-research)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://suhaslord.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhas-beemineni-1984763b8/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suhaslord)
 
-Simulation research into unreliable landing-camera estimates, uncertainty calibration, and transfer to new synthetic contexts. The research record extends through Phase 22 and preserves both successful and failed evaluations. Results are simulation evidence, not validation for physical flight.
+<br/><br/>
 
-[Research cockpit](https://aegisland-research-cockpit.vercel.app/) · [Phase archive](https://aegisland-research-cockpit.vercel.app/phases/) · [Code and reproduction](https://github.com/suhaslord/uav-safety-research#how-to-run-aegisland)
+<img src="https://komarev.com/ghpvc/?username=suhaslord&label=Profile%20views&color=0e4429&style=flat-square" alt="Profile views"/>
 
-### [Portfolio — Projects and Engineering Work](https://github.com/suhaslord/portfolio)
+</div>
 
-A static portfolio bringing together spacecraft simulation, AI evaluation, research, and creative software. Case studies link to code, experimental records, and contributions.
+---
 
-[Visit the portfolio](https://suhaslord.github.io/portfolio/)
+## About Me
 
-## More projects
+```text
+High school student
+Aerospace + Autonomy + Applied AI
+Researcher & Builder
+```
 
-- **[TennisRank](https://github.com/suhaslord/tennisrank-ai)** — Team rankings, spreadsheet imports, and an authenticated tennis challenge ladder with coach approval and rank history.
-- **[AbstainBench](https://github.com/suhaslord/AbstainBench)** — A 30-question browser experiment in answering versus abstaining, with an offline baseline and optional local WebLLM inference.
-- **[ECHO / FIELD](https://github.com/suhaslord/ECHO-FIELD)** — A generative Canvas instrument shaped by pointer movement, microphone input, and seeded memory.
-- **[Citizen-Science Astronomy Lab](https://github.com/suhaslord/citizen-science-astronomy-lab)** — Reproduction of known exoplanet signals and sample-data photometry using public astronomy datasets.
-- **[Pacific Climate Dataviz](https://github.com/suhaslord/pacific-climate-dataviz)** — Reproducible visualization of Pacific sea-surface temperature anomalies, with data provenance and method notes.
+Hey! I'm **Suhas Beemineni**. I work on **spacecraft navigation, autonomous systems, reliable AI, and research tools**.
 
-## Engineering and open source
+<br/>
 
-My work with **Seagulls / OpenStage** has focused on model routing, memory boundaries, and QA.
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-Selected merged contributions:
+### Focus Areas
 
-- **[NASA · python_cmr](https://github.com/nasa/python_cmr/pull/119)** — Support for searching satellite metadata across multiple platforms.
-- **[OpenMDAO · Aviary](https://github.com/OpenMDAO/Aviary/pull/1262)** — A minimal FLOPS aircraft example.
-- **[OpenC3 · COSMOS](https://github.com/OpenC3/cosmos/pull/3720)** — Received-time support for injected telemetry.
-- **[GTSAM](https://github.com/borglab/gtsam/pull/2680)** — Documentation of IMU integration covariance.
-- **[PACK Lab](https://github.com/pack-lab/Non_Cooperative_Driving_Suhas/pull/1)** — A mixed-motive driving baseline and CARLA adapter.
+- **Aerospace** — navigation, dynamics, simulation
+- **Autonomy** — perception, localization, uncertainty
+- **AI/ML** — evaluation, reliability, applied ML
 
-## Technical interests
+    </td>
+    <td valign="top" width="50%">
 
-Spacecraft dynamics and navigation · Perception uncertainty · AI evaluation · Scientific visualization
+### Currently
 
-**Tools:** Python, JavaScript, NumPy, Matplotlib, and Git.
+- Building **AegisLand**
+- Working on **lunar optical navigation**
+- Contributing to aerospace + autonomy open source
 
-<sub>River Islands High School · Delta College coursework</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Tech Stack
+
+### Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css&perline=8" alt="Languages"/>
+
+</div>
+
+### Tools & Frameworks
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=pytorch,git,github,vscode,linux&perline=8" alt="Tools"/>
+
+<br/><br/>
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![OpenMDAO](https://img.shields.io/badge/OpenMDAO-Engineering-8B949E?style=flat-square)
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=suhaslord&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub stats"/>
+<img height="165" src="https://streak-stats.demolab.com?user=suhaslord&theme=github-dark-blue&hide_border=true" alt="GitHub streak"/>
+
+<br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhaslord&layout=compact&hide_border=true&theme=github_dark" alt="Top languages"/>
+
+</div>
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+Always open to talking about **aerospace, autonomy, AI, and research**.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhas-beemineni-1984763b8/)
+[![Portfolio](https://img.shields.io/badge/View%20my%20portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://suhaslord.github.io/portfolio/)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=100&section=footer"/>
+</div>
