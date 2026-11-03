@@ -28,7 +28,7 @@ Aerospace + Autonomy + Applied AI
 Researcher & Builder
 ```
 
-Hey! I'm **Suhas Beemineni**. I work on **spacecraft navigation, autonomous systems, reliable AI, and research tools**.
+Hey! I'm **Suhas Beemineni**, a high school student in California. I work with research teams on **AI, lunar navigation, robotics, and simulation**, and build tools to explore real engineering problems.
 
 <br/>
 
@@ -40,20 +40,31 @@ Hey! I'm **Suhas Beemineni**. I work on **spacecraft navigation, autonomous syst
 
 - **Aerospace** — navigation, dynamics, simulation
 - **Autonomy** — perception, localization, uncertainty
-- **AI/ML** — evaluation, reliability, applied ML
+- **AI/ML** — visual question answering, evaluation, reliability
 
     </td>
     <td valign="top" width="50%">
 
 ### Currently
 
-- Building **AegisLand**
-- Working on **lunar optical navigation**
-- Contributing to aerospace + autonomy open source
+- Researching **visual question answering** at UC Santa Cruz
+- Studying **lunar optical navigation** with San Diego State
+- Contributing to **MARVIN rover simulation** at Cal Poly Pomona
 
     </td>
   </tr>
 </table>
+
+---
+
+## Selected Work
+
+- **[AegisLand](https://github.com/suhaslord/uav-safety-research)** — simulation-only research on UAV landing perception and failure cases.
+- **[Lunar navigation](https://suhaslord.github.io/portfolio/work/lunar-navigation.html)** — studying navigation estimates and measurement gaps in lunar orbit simulations.
+- **[Voyager / Elodin](https://suhaslord.github.io/portfolio/work/voyager.html)** — contributed trajectory-error telemetry and a gravity model for spacecraft simulation.
+- **[TennisRank AI](https://github.com/suhaslord/tennisrank-ai)** — a school tennis-ranking app with a challenge ladder and team-aware doubles logic.
+
+More research and open-source work on my **[portfolio](https://suhaslord.github.io/portfolio/work.html)**.
 
 ---
 
@@ -78,6 +89,9 @@ Hey! I'm **Suhas Beemineni**. I work on **spacecraft navigation, autonomous syst
 ![NumPy](https://img.shields.io/badge/NumPy-4A90E2?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-4A90E2?style=flat-square&logo=python&logoColor=white)
 ![OpenMDAO](https://img.shields.io/badge/OpenMDAO-4A90E2?style=flat-square)
+![ROS 2](https://img.shields.io/badge/ROS%202-4A90E2?style=flat-square)
+![Gazebo](https://img.shields.io/badge/Gazebo-4A90E2?style=flat-square)
+![MATLAB](https://img.shields.io/badge/MATLAB-4A90E2?style=flat-square)
 
 </div>
 
