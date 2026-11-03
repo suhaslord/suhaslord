@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7FCAC8,50:6CB6FF,100:8FD3FF&height=180&section=header&text=Suhas%20Beemineni&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=32&desc=Aerospace%20%2F%20Autonomy%20%C2%B7%20Applied%20AI%20%C2%B7%20Builder&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7FCAC8,50:6CB6FF,100:8FD3FF&height=180&section=header&text=Suhas%20Beemineni&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=32&desc=Engineering%20%C2%B7%20AI%20%C2%B7%20Robotics&descAlignY=55&descSize=16"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=650&lines=Building+autonomous+systems;Researching+spacecraft+navigation;Making+AI+more+reliable" alt="Typing animation"/>
@@ -24,7 +24,7 @@
 
 ```text
 High school student
-Aerospace + Autonomy + Applied AI
+Engineering + AI + Robotics
 Researcher & Builder
 ```
 
@@ -38,7 +38,7 @@ Hey! I'm **Suhas Beemineni**, a high school student in California. I work with r
 
 ### Focus Areas
 
-- **Aerospace** — navigation, dynamics, simulation
+- **Engineering** — simulation, navigation, and software
 - **Autonomy** — perception, localization, uncertainty
 - **AI/ML** — visual question answering, evaluation, reliability
 
@@ -111,7 +111,7 @@ More research and open-source work on my **[portfolio](https://suhaslord.github.
 
 <div align="center">
 
-Always open to talking about **aerospace, autonomy, AI, and research**.
+Always open to talking about **engineering, robotics, AI, and research**.
 
 <br/>
 
