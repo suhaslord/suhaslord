@@ -3,13 +3,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7FCAC8,50:6CB6FF,100:8FD3FF&height=180&section=header&text=Suhas%20Beemineni&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=32&desc=Engineering%20%C2%B7%20AI%20%C2%B7%20Robotics&descAlignY=55&descSize=16"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=650&lines=Building+autonomous+systems;Researching+spacecraft+navigation;Making+AI+more+reliable" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=650&lines=Engineering+%2B+AI+%2B+Robotics;Research+at+UC+Santa+Cruz;Building+and+testing+software" alt="Typing animation"/>
 </a>
 
 <br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=vercel&logoColor=white)](https://suhaslord.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4A90E2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhas-beemineni-1984763b8/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4A90E2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhasbe/)
 [![GitHub](https://img.shields.io/badge/GitHub-4A90E2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suhaslord)
 
 <br/><br/>
@@ -25,10 +25,10 @@
 ```text
 High school student
 Engineering + AI + Robotics
-Researcher & Builder
+Student researcher
 ```
 
-Hey! I'm **Suhas Beemineni**, a high school student in California. I work with research teams on **AI, lunar navigation, robotics, and simulation**, and build tools to explore real engineering problems.
+Hi, I'm **Suhas**, a high school student interested in engineering, AI, and robotics. I work on visual question answering, navigation simulations, and rover software.
 
 <br/>
 
@@ -38,9 +38,9 @@ Hey! I'm **Suhas Beemineni**, a high school student in California. I work with r
 
 ### Focus Areas
 
-- **Engineering** — simulation, navigation, and software
-- **Autonomy** — perception, localization, uncertainty
-- **AI/ML** — visual question answering, evaluation, reliability
+- **Engineering** — simulation and software
+- **Robotics** — ROS 2 and Gazebo
+- **AI** — visual question answering and evaluation
 
     </td>
     <td valign="top" width="50%">
@@ -111,11 +111,11 @@ More research and open-source work on my **[portfolio](https://suhaslord.github.
 
 <div align="center">
 
-Always open to talking about **engineering, robotics, AI, and research**.
+I'd love to connect about **engineering, AI, and robotics**.
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-4A90E2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhas-beemineni-1984763b8/)
+[![LinkedIn](https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-4A90E2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhasbe/)
 [![Portfolio](https://img.shields.io/badge/View%20my%20portfolio-4A90E2?style=for-the-badge&logo=vercel&logoColor=white)](https://suhaslord.github.io/portfolio/)
 
 </div>
