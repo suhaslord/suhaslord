@@ -62,6 +62,7 @@ Hi, I'm **Suhas**, a high school student interested in engineering, AI, and robo
 - **[AegisLand](https://github.com/suhaslord/uav-safety-research)** — simulation-only research on UAV landing perception and failure cases.
 - **[Lunar navigation](https://suhaslord.github.io/portfolio/work/lunar-navigation.html)** — studying navigation estimates and measurement gaps in lunar orbit simulations.
 - **[Voyager / Elodin](https://suhaslord.github.io/portfolio/work/voyager.html)** — contributed trajectory-error telemetry and a gravity model for spacecraft simulation.
+- **[Open source](https://suhaslord.github.io/portfolio/work.html)** — merged contributions to NASA python_cmr, OpenMDAO Aviary, and OpenC3 COSMOS.
 - **[TennisRank AI](https://github.com/suhaslord/tennisrank-ai)** — a school tennis-ranking app with a challenge ladder and team-aware doubles logic.
 
 More research and open-source work on my **[portfolio](https://suhaslord.github.io/portfolio/work.html)**.
